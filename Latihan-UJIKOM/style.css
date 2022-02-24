@@ -1,0 +1,26 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.jumbroton{
+	background-image:url('img/laptop_12.jpg');
+	background-size:cover;
+    background-repeat: no-repeat;
+	height:600px;
+    background-position:0 -50px;
+}
+
+.j-tentang{
+	margin-top: 80px;
+}
+
+p{
+    text-align: justify;
+}
+
+.produk,
+.tentang,
+.form-pemesanan,
+.footer{
+	margin-top:100px;
+}
